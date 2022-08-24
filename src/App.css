@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+/* Login form */
+.login-form-card{
+  margin-top: 50px;
+}
+
+.login-link-lable{
+  color: white;
+}
+
+.login-link-lable-dark{
+  color: black;
+}
